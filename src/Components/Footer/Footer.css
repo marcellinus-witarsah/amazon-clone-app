@@ -1,0 +1,34 @@
+.footer__upperContainer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  font-size: 18px;
+  color: white;
+  background-color: #37475a;
+}
+
+.footer__lowerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #232f3e;
+}
+
+.footer__info {
+  margin-top: 30px;
+  margin-right: 60px;
+  margin-bottom: 30px;
+  margin-left: 60px;
+  min-width: 200px;
+  color: white;
+}
+
+.footer__infoTitle {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.footer__infoContent {
+  font-size: 17px;
+  font-weight: 400;
+}
